@@ -37,7 +37,7 @@ Full-Stack Developer · ML/AI Engineer · AI-Powered Product Builder
 
 ---
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF41&width=300&lines=🚀+Featured+Projects)](https://git.io/typing-svg)
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -78,7 +78,7 @@ Full-Stack Developer · ML/AI Engineer · AI-Powered Product Builder
 
 ---
 
-## `> cat tech_stack.json`
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -88,7 +88,7 @@ Full-Stack Developer · ML/AI Engineer · AI-Powered Product Builder
 
 ---
 
-## `> ./stats --live`
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -105,7 +105,7 @@ Full-Stack Developer · ML/AI Engineer · AI-Powered Product Builder
 
 ---
 
-## `> whoami --personal`
+## 🎮 Beyond the Code
 
 ```json
 {
@@ -119,7 +119,7 @@ Full-Stack Developer · ML/AI Engineer · AI-Powered Product Builder
 
 ---
 
-## `> ./contributions --snake`
+## 🐍 Contribution Snake
 
 <div align="center">
 
