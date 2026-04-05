@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-### `> Building things that actually solve real problems.`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FFFFFF&center=true&width=500&lines=Building+things+that+actually+solve+real+problems.)](https://git.io/typing-svg)
 
 **B.Tech CSE @ SRM Institute of Science and Technology**
 Full-Stack Developer · ML/AI Engineer · AI-Powered Product Builder
