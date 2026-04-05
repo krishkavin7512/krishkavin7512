@@ -189,8 +189,8 @@ class KavinKrish:
 
 <div align="center">
 
-<img height="180em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=krishkavin7512&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41"/>
-<img height="180em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishkavin7512&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9"/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krishkavin7512&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krishkavin7512&theme=github_dark)
 
 </div>
 
