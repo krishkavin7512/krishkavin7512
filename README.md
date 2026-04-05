@@ -189,14 +189,14 @@ class KavinKrish:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=krishkavin7512&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishkavin7512&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9"/>
+<img height="180em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=krishkavin7512&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41"/>
+<img height="180em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishkavin7512&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=krishkavin7512&theme=matrix&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=c9d1d9&dates=c9d1d9&sideNums=c9d1d9)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=krishkavin7512&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=c9d1d9&dates=c9d1d9&sideNums=c9d1d9&currStreakNum=00FF41&stroke=00FF41)](https://git.io/streak-stats)
 
 </div>
 
