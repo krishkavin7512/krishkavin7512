@@ -14,12 +14,12 @@
 **B.Tech CSE @ SRM Institute of Science and Technology**
 Full-Stack Developer · ML/AI Engineer · AI-Powered Product Builder
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavin-krish-vijayakumar-029526277/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kavin_krish_087/?hl=en)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishkavin7512@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishkavin7512)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=20)](https://www.linkedin.com/in/kavin-krish-vijayakumar-029526277/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white&border_radius=20)](https://www.instagram.com/kavin_krish_087/?hl=en)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&border_radius=20)](mailto:krishkavin7512@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&border_radius=20)](https://github.com/krishkavin7512)
 
-![Profile Views](https://komarev.com/ghpvc/?username=krishkavin7512&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=krishkavin7512&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS&border_radius=20)
 
 </div>
 
