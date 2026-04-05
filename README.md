@@ -196,7 +196,7 @@ class KavinKrish:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=krishkavin7512&theme=matrix&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=krishkavin7512&theme=matrix&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=c9d1d9&dates=c9d1d9&sideNums=c9d1d9)](https://git.io/streak-stats)
 
 </div>
 
