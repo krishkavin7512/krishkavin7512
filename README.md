@@ -25,25 +25,15 @@ Full-Stack Developer · ML/AI Engineer · AI-Powered Product Builder
 
 ---
 
-```python
-class KavinKrish:
-    def __init__(self):
-        self.name        = "Kavin Krish Vijay"
-        self.university  = "SRM Institute of Science and Technology"
-        self.degree      = "B.Tech — Computer Science & Engineering"
-        self.roles       = ["Full-Stack Developer", "ML/AI Engineer", "AI Product Builder"]
-        self.interests   = ["Computer Vision", "Intelligent Systems", "Real-World AI Apps"]
-        self.open_to     = "Internships & Collaborations"
-        self.timezone    = "Night owl 🌙 — best commits after midnight"
-        self.mantra      = "Build things that actually solve real problems."
-
-    def current_focus(self):
-        return [
-            "Pushing AI/ML into full-stack products",
-            "Bridging the gap between models and users",
-            "Making technology accessible and impactful"
-        ]
-```
+| | |
+|---|---|
+| 👤 **Name** | Kavin Krish Vijay |
+| 🎓 **Degree** | B.Tech CSE @ SRM Institute of Science and Technology |
+| 💡 **Focus** | Full-Stack · ML/AI · AI Products |
+| 🔭 **Interests** | Computer Vision · Intelligent Systems · Real-World AI |
+| 🌙 **Hours** | Night owl — best commits after midnight |
+| 🎮 **Outside Code** | Gaming · Riding |
+| 📬 **Status** | Open to internships & collaborations |
 
 ---
 
