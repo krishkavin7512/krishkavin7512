@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:skillicons.dev)",
+      "WebFetch(domain:github.com)"
+    ]
+  }
+}
