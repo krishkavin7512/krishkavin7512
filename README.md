@@ -82,7 +82,7 @@ Full-Stack Developer · ML/AI Engineer · AI-Powered Product Builder
 
 <div align="center">
 
-[![Tech Stack](https://skillicons.dev/icons?i=py,js,ts,c,cpp,java,bash,r,react,nextjs,html,css,tailwind,bootstrap,vue,angular,nodejs,express,fastapi,flask,django,mongodb,mysql,postgres,firebase,sqlite,redis,tensorflow,pytorch,opencv,keras,git,github,docker,postman,vscode,linux,figma,vercel,aws,azure&perline=15)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=py,js,ts,c,cpp,java,bash,r,react,nextjs,html,css,tailwind,bootstrap,vue,angular,nodejs,fastapi,flask,django,mongodb,mysql,postgres,firebase,sqlite,redis,tensorflow,pytorch,keras,git,github,docker,postman,vscode,linux,figma,vercel,aws,azure&perline=15)](https://skillicons.dev)
 
 </div>
 
