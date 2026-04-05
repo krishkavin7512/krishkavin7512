@@ -37,7 +37,7 @@ Full-Stack Developer · ML/AI Engineer · AI-Powered Product Builder
 
 ---
 
-## `> ./projects --featured`
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF41&width=300&lines=🚀+Featured+Projects)](https://git.io/typing-svg)
 
 <table>
 <tr>
