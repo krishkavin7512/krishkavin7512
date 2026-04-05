@@ -32,7 +32,6 @@ Full-Stack Developer · ML/AI Engineer · AI-Powered Product Builder
 | 💡 **Focus** | Full-Stack · ML/AI · AI Products |
 | 🔭 **Interests** | Computer Vision · Intelligent Systems · Real-World AI |
 | 🌙 **Hours** | Night owl — best commits after midnight |
-| 🎮 **Outside Code** | Gaming · Riding |
 | 📬 **Status** | Open to internships & collaborations |
 
 ---
