@@ -105,18 +105,6 @@ Full-Stack Developer · ML/AI Engineer · AI-Powered Product Builder
 
 ---
 
-## 🎮 Beyond the Code
-
-```json
-{
-  "gaming"       : "FPS & strategy — yes, I have a kill-death ratio worth mentioning",
-  "riding"       : "Two wheels, open road, clear head",
-  "coding_hours" : "23:00 — 03:00 (peak performance window)",
-  "philosophy"   : "Don't build for the portfolio. Build for the problem.",
-  "status"       : "Open to internships & real-world collabs"
-}
-```
-
 ---
 
 ## 🐍 Contribution Snake
