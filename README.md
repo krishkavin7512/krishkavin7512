@@ -92,7 +92,7 @@ class KavinKrish:
 
 <div align="center">
 
-[![Tech Stack](https://skillicons.dev/icons?i=py,js,ts,c,cpp,java,bash,r,react,nextjs,html,css,tailwind,bootstrap,vue,angular,nodejs,express,fastapi,flask,django,mongodb,mysql,postgres,firebase,sqlite,redis,tensorflow,pytorch,opencv,sklearn,keras,numpy,pandas,git,github,docker,postman,vscode,linux,figma,vercel,aws,gcp,azure,jupyter&perline=15)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=py,js,ts,c,cpp,java,bash,r,react,nextjs,html,css,tailwind,bootstrap,vue,angular,nodejs,express,fastapi,flask,django,mongodb,mysql,postgres,firebase,sqlite,redis,tensorflow,pytorch,opencv,sklearn,keras,git,github,docker,postman,vscode,linux,figma,vercel,aws,azure&perline=15)](https://skillicons.dev)
 
 </div>
 
