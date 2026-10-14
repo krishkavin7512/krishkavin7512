@@ -1,132 +1,73 @@
-<div align="center">
-
-```
-██╗  ██╗ █████╗ ██╗   ██╗██╗███╗   ██╗
-██║ ██╔╝██╔══██╗██║   ██║██║████╗  ██║
-█████╔╝ ███████║██║   ██║██║██╔██╗ ██║
-██╔═██╗ ██╔══██║╚██╗ ██╔╝██║██║╚██╗██║
-██║  ██╗██║  ██║ ╚████╔╝ ██║██║ ╚████║
-╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FFFFFF&center=true&width=600&height=30&lines=Building+things+that+actually+solve+real+problems.)](https://git.io/typing-svg)
-
-**B.Tech CSE @ SRM Institute of Science and Technology**
-Full-Stack Developer · ML/AI Engineer · AI-Powered Product Builder
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavin-krish-vijayakumar-029526277/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kavin_krish_087/?hl=en)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishkavin7512@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishkavin7512)
-
-![Profile Views](https://komarev.com/ghpvc/?username=krishkavin7512&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-| | |
-|---|---|
-| 👤 **Name** | Kavin Krish Vijay |
-| 🎓 **Degree** | B.Tech CSE @ SRM Institute of Science and Technology |
-| 💡 **Focus** | Full-Stack · ML/AI · AI Products |
-| 🔭 **Interests** | Computer Vision · Intelligent Systems · Real-World AI |
-| 🌙 **Hours** | Night owl — best commits after midnight |
-| 📬 **Status** | Open to internships & collaborations |
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤟 Indian Sign Language Recognition
-> Real-time ISL gesture recognition using a webcam — bridging communication gaps for the deaf and hard-of-hearing community.
-
-**Stack:** Python · OpenCV · MediaPipe · TensorFlow · Keras
-
-- Live webcam inference pipeline
-- Hand landmark tracking via MediaPipe
-- Custom-trained deep learning classifier
-- Real-time gesture-to-text translation
-
-![Status](https://img.shields.io/badge/Status-Completed-00ff41?style=flat-square)
-![Type](https://img.shields.io/badge/Type-ML%20%2F%20CV-blueviolet?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ Protecht — Smart Warranty & Service Tracker
-> A full-stack web + mobile app that intelligently tracks your product warranties, service schedules, and alerts — so you never miss a claim again.
-
-**Stack:** React · Node.js · Express.js · MongoDB · Firebase
-
-- Warranty expiry tracking with smart alerts
-- Multi-device web and mobile support
-- Document upload & management
-- Clean dashboard with timeline views
-
-![Status](https://img.shields.io/badge/Status-Completed-00ff41?style=flat-square)
-![Type](https://img.shields.io/badge/Type-Full--Stack-blue?style=flat-square)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
+<!--
+  Kavin Krish Vijay · github.com/krishkavin7512
+  Static SVGs  →  python scripts/build.py
+  Telemetry + snake  →  .github/workflows/profile.yml (nightly, output branch)
+-->
 
 <div align="center">
-
-[![Tech Stack](https://skillicons.dev/icons?i=py,js,ts,c,cpp,java,bash,react,nextjs,html,css,tailwind,bootstrap,vue,angular,nodejs,express,fastapi,flask,django,mongodb,mysql,postgres,firebase,sqlite,redis,tensorflow,pytorch,keras,git,github,docker,postman,vscode,linux,figma,vercel,aws,azure&perline=15)](https://skillicons.dev)
-
+  <img src="./assets/hero.svg" width="100%" alt="A terminal session: an AI agent ships 'kavin', a training run converges to 92.2% validation accuracy, and prints a model card. Kavin Krish Vijay: applied ML × full-stack, B.Tech CSE at SRM IST '28, Chennai, open to internships. Vibe-coded speed. Engineered depth." />
 </div>
 
----
+<br/>
 
-## 📊 GitHub Stats
+<img src="./assets/h-shipped.svg" width="100%" alt="01 / shipped" />
+
+<p align="center">
+  <a href="https://github.com/krishkavin7512/DevTrails"><img src="./assets/card-raincheck.svg" width="49%" alt="RainCheck: parametric income insurance for India's food-delivery riders. Guidewire DEVTrails 2026, phase 2 shipped. I built the Flutter rider app." /></a>
+  <a href="https://github.com/VishaalPillay/WSF"><img src="./assets/card-wsf.svg" width="49%" alt="WSF: AI women's safety framework with risk zones, safe routing and automatic SOS. I rebuilt location tracking and unified the Supabase schema." /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/krishkavin7512/Indian-Sign-Language-Detection-System"><img src="./assets/card-isl.svg" width="49%" alt="ISL Recognition: real-time Indian Sign Language recognition, 92.2% validation accuracy on 296 signs. Solo build: model, API and UI." /></a>
+  <a href="https://github.com/GoutamAdityan/PRO-TECHT"><img src="./assets/card-protecht.svg" width="49%" alt="Pro-Techt: service-center portal with warranty tracking, OCR and barcode capture, chat and SLA analytics. Vibe-coded with Lovable and Supabase." /></a>
+</p>
+
+<br/>
+
+<img src="./assets/h-stack.svg" width="100%" alt="02 / stack" />
 
 <div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krishkavin7512&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krishkavin7512&theme=github_dark)
-
+  <img src="./assets/stack.svg" width="100%" alt="Languages: Python, TypeScript, JavaScript, Dart. ML and CV: TensorFlow, scikit-learn, XGBoost, MediaPipe, OpenCV, pandas, NumPy. Backend: FastAPI, Flask, Express, Celery, Redis. Frontend: React, Next.js, Vite, Tailwind, Framer Motion. Mobile: Flutter, Firebase, Mapbox. Data and infra: Supabase, MongoDB, SQLite, Docker, Vercel, GitHub Actions. Vibe stack: Claude Code, Cursor, Antigravity, Gemini CLI, Codex, Copilot, Lovable." />
 </div>
+
+<br/>
+
+<img src="./assets/h-telemetry.svg" width="100%" alt="03 / telemetry" />
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=krishkavin7512&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=c9d1d9&dates=c9d1d9&sideNums=c9d1d9&currStreakNum=00FF41&stroke=00FF41)](https://git.io/streak-stats)
-
+  <img src="https://raw.githubusercontent.com/krishkavin7512/krishkavin7512/output/telemetry.svg" width="100%" alt="Live GitHub stats: contributions over the last year, streaks, weekly activity and top languages." />
+  <br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishkavin7512/krishkavin7512/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishkavin7512/krishkavin7512/output/snake-light.svg" />
+    <img src="https://raw.githubusercontent.com/krishkavin7512/krishkavin7512/output/snake-dark.svg" width="100%" alt="A snake eating my contribution graph." />
+  </picture>
 </div>
 
----
+<br/>
 
----
-
-## 🐍 Contribution Snake
+<img src="./assets/h-connect.svg" width="100%" alt="04 / connect" />
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishkavin7512/krishkavin7512/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishkavin7512/krishkavin7512/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/krishkavin7512/krishkavin7512/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
+  <img src="./assets/footer.svg" width="100%" alt='git commit -m "let&apos;s build something real" — 1 team changed, 1 engineer inserted(+)' />
+  <br/><br/>
+  <a href="mailto:krishkavin7512@gmail.com"><img src="./assets/btn-mail.svg" height="44" alt="Email krishkavin7512@gmail.com" /></a>
+  <a href="https://www.linkedin.com/in/kavin-krish-vijayakumar-029526277/"><img src="./assets/btn-linkedin.svg" height="44" alt="LinkedIn" /></a>
+  <a href="https://kavin-dev-portfolio.vercel.app/"><img src="./assets/btn-portfolio.svg" height="44" alt="Portfolio" /></a>
 </div>
 
----
+<br/>
 
-<div align="center">
+<details>
+<summary><sub>plain-text version</sub></summary>
+<br/>
 
-```
-Open to internships. Open to ideas. Let's build something real.
-```
+**Kavin Krish Vijay**: applied ML × full-stack engineer, B.Tech CSE at SRM IST ('28), Chennai. Vibe-coded speed, engineered depth: I ship with AI agents, then I read every line they write.
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kavin-krish-vijayakumar-029526277/)
-[![Gmail](https://img.shields.io/badge/Mail%20Me-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishkavin7512@gmail.com)
+- **RainCheck** ([repo](https://github.com/krishkavin7512/DevTrails)): parametric income insurance for food-delivery riders, Guidewire DEVTrails 2026. I built the Flutter rider app.
+- **WSF** ([repo](https://github.com/VishaalPillay/WSF)): AI women's safety framework with risk zones, safe routing and auto-SOS. I rebuilt location tracking and unified the Supabase schema.
+- **ISL Recognition** ([repo](https://github.com/krishkavin7512/Indian-Sign-Language-Detection-System)): real-time Indian Sign Language recognition, 92.2% val accuracy on 296 signs. Solo build.
+- **Pro-Techt** ([repo](https://github.com/GoutamAdityan/PRO-TECHT)): service-center portal with warranty tracking, OCR + barcode capture and SLA analytics.
 
-</div>
+Open to internships · [krishkavin7512@gmail.com](mailto:krishkavin7512@gmail.com) · [LinkedIn](https://www.linkedin.com/in/kavin-krish-vijayakumar-029526277/) · [Portfolio](https://kavin-dev-portfolio.vercel.app/)
+
+</details>

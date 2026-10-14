@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="138" height="48" viewBox="0 0 138 48" fill="none" role="img"><title>LinkedIn</title><style>@font-face{font-family:'JBM';font-weight:500;font-style:normal;src:url(data:font/woff2;base64,d09GMgABAAAAAAPgABAAAAAAB+wAAAOHAAI2BAAAAAAAAAAAAAAAAAAAAAAAAAAAGiQbIBxaBmA/U1RBVEwAXBEICoQggzsBNgIkAywLGAAEIAWEKAcgDAcbXQYArgZjYxn2yd42bQRjBHOdd2XnZ6Px8P1c9ee+pLumk2UiRYSOlCcSbvczlp91A/87l3/EEjBvpwBHxG2PUspeLzcWitkByilATyzc5tZYjbH/8h8WIHVi7/u/zL7wxOX4fwuO7Z2HIY65tWzZ3AYBt3kO7SJKsEukyzHdZHj/CsBS3UUj2lqgBSCEmhCc2uicQg+9xILiykbwlUMzIIeeYB734cGHGSpDWCYRG+orkAoDI+8w4UTw5fDIfaCOrEpCXJGnLW71ktJDdwAsnx5bIT7mACRqlGyYu2wegPeWkrOGphc8T4zI+x/SoPQj+qgIoU5CBwkDpHN2B3XDgdOM6NZayHWRICpRT3wkbQGQCSnagAAJGTrIBDrILQFaqZNULVXJChPIzcBQyyuanzu1bcOm9QI/LkQzrUEJOqHAUzxDF3QAhJCkZsLuIESLaudW3YqiZacWZZSVIloq8lKEl/l9djx8C7cb7+X4q2HlJrcyL6IYfv1l0/hzuN14KsYeuP4pUbWUK/ENaAHLo2Xvuwd8/XWH2423YuyFzWWUWREtU3F7KrHkljb/Tf5XWDmkSTgVWdl4OjR2cesv8VHnrr/euX0+Yr73qTeX9KM4kMOBZ209R3rWe+f8hsKa8jxHuPu1TfFHAYc68qCdYroSTlJnUk8Sks7SZ9LPYHhtviUxqSd3Jm9idxAvKOQS53fNYxsNWfeMM+RQwMKB+uiCuMyMvPS0zLys8H/W7rxm99i2d7FafhRnmUc/F098ih6d+93xBxsGCThiJX9lWVE942iTRTZ5NT7hKL0DtLdVC7FoQaVaQLELkAapoqpo88yswFqQRmSt6HmBNCnv9tcde0JmfKnLsv/hp887a/DvlwU/sKr5aXzWClUJBD+xPW3JwJvuqaRCGcpdQzsbWAtISLV0HdCyuBH4TaA0UNLJ8gGWNCY/lIm8htfEbBjmNZu08i+bmaa+Pc9jK7rFKKZqSCzJCVrEcQIqyGWgNXL/uDaKeArzEX2GKDA7BwoZZ4wN9LEBBay/wTJWVD4FA5M5ISsRMgJZQ0HwrDgUMpcL5UAonJAh9qOoPk7pRhttH4xycGEZ7EJIjJ1qi7b3IOo3+2RXsrLAXCT1rOxcRAxFvFHGGWus6ZbJl8Gd+lpAc0rhhKkNSXOqAC3ar12x96bKUAwRxqlHSBgyD6A58Qgq/Xm8cwE=) format('woff2')}
+.m{font-family:'JBM',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}.s{font-family:'IS','Iowan Old Style',Georgia,serif}
+.in{animation:in .5s cubic-bezier(.2,.7,.2,1) both}
+@keyframes in{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+.fade{animation:fade .6s ease both}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+.draw{stroke-dasharray:1;animation:draw 1s cubic-bezier(.4,0,.2,1) both}
+@keyframes draw{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+.blink{animation:blink 1.05s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+.flash{opacity:0;animation:flash .1s linear none}
+@keyframes flash{from,to{opacity:1}}
+.pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2.4s ease-out infinite}
+@keyframes pulse{0%{transform:scale(1);opacity:.75}100%{transform:scale(3.4);opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style><rect x=".5" y=".5" width="137" height="47" rx="12" fill="#0a0d13" stroke="#1e2633"/><path transform="translate(20.00 15.00) scale(0.7500)" d="M4.98 3.5a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5zM3 9.5h4V21H3zm6.5 0h3.8v1.6h.06c.53-1 1.83-2 3.77-2 4.03 0 4.77 2.65 4.77 6.1V21h-4v-5.1c0-1.22-.02-2.8-1.7-2.8-1.71 0-1.97 1.33-1.97 2.7V21h-4z" fill="#a78bfa"/><text class="m" x="52" y="29" font-size="13" font-weight="500" fill="#e6edf3">LinkedIn</text></svg>
